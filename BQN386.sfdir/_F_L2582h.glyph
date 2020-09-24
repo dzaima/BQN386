@@ -1,0 +1,47 @@
+StartChar: FL2582h
+Encoding: 9602 9602 848
+Width: 600
+GlyphClass: 2
+Flags: W
+HStem: -235 285<0 599>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_1
+ 3
+MDAP[rnd]
+PUSHB_5
+ 0
+ 8
+ 0
+ 7
+ 4
+CALL
+PUSHB_5
+ 0
+ 8
+ 0
+ 7
+ 4
+CALL
+SVTCA[x-axis]
+PUSHB_1
+ 4
+MDAP[rnd]
+PUSHB_1
+ 5
+MDRP[rp0,rnd,white]
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+0 50 m 1,0,-1
+ 599 50 l 1,1,-1
+ 599 -235 l 1,2,-1
+ 0 -235 l 1,3,-1
+ 0 50 l 1,0,-1
+EndSplineSet
+Validated: 19457
+EndChar

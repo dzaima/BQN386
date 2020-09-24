@@ -1,0 +1,156 @@
+StartChar: QuadOR
+Encoding: 9036 9036 713
+Width: 600
+GlyphClass: 2
+Flags: W
+HStem: -89 87<103 464> 458 20G<106 126 424.5 447.5> 671 85<103 464>
+VStem: 75 28<422 452> 464 18<431 458>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 38
+ 1
+ 0
+CALL
+PUSHB_2
+ 25
+ 4
+MIRP[min,black]
+PUSHB_3
+ 37
+ 3
+ 0
+CALL
+PUSHB_2
+ 30
+ 4
+MIRP[min,black]
+PUSHB_3
+ 13
+ 2
+ 0
+CALL
+PUSHB_1
+ 19
+SHP[rp1]
+SVTCA[x-axis]
+PUSHB_1
+ 39
+MDAP[rnd]
+PUSHB_1
+ 10
+MDRP[rp0,rnd,white]
+PUSHB_5
+ 37
+ 10
+ 0
+ 18
+ 4
+CALL
+PUSHB_3
+ 10
+ 37
+ 10
+CALL
+PUSHB_4
+ 64
+ 10
+ 27
+ 9
+CALL
+PUSHB_1
+ 37
+SRP0
+PUSHB_3
+ 10
+ 36
+ 16
+CALL
+PUSHB_5
+ 0
+ 10
+ 0
+ 18
+ 4
+CALL
+PUSHB_3
+ 0
+ 36
+ 10
+CALL
+PUSHB_4
+ 64
+ 0
+ 22
+ 9
+CALL
+PUSHB_1
+ 0
+SRP0
+PUSHB_1
+ 40
+MDRP[rp0,rnd,white]
+PUSHB_2
+ 36
+ 37
+SRP1
+SRP2
+PUSHB_3
+ 13
+ 19
+ 5
+IP
+IP
+IP
+SVTCA[y-axis]
+PUSHB_2
+ 13
+ 38
+SRP1
+SRP2
+PUSHB_3
+ 0
+ 5
+ 16
+IP
+IP
+IP
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+482 442 m 0,0,1
+ 482 431 482 431 476 419 c 2,2,-1
+ 326 150 l 2,3,4
+ 298 101 298 101 277 101 c 256,5,6
+ 256 101 256 101 231 147 c 2,7,-1
+ 81 412 l 2,8,9
+ 75 422 75 422 75 435 c 0,10,11
+ 75 452 75 452 86.5 465 c 128,-1,12
+ 98 478 98 478 114 478 c 0,13,14
+ 138 478 138 478 151 453 c 2,15,-1
+ 275 234 l 1,16,-1
+ 395 457 l 2,17,18
+ 410 484 410 484 439 484 c 0,19,20
+ 456 484 456 484 469 471 c 128,-1,21
+ 482 458 482 458 482 442 c 0,0,1
+551 -34 m 2,22,23
+ 551 -89 551 -89 497 -89 c 2,24,-1
+ 63 -89 l 2,25,26
+ 16 -89 16 -89 16 -34 c 2,27,-1
+ 16 700 l 2,28,29
+ 16 756 16 756 71 756 c 2,30,-1
+ 497 756 l 2,31,32
+ 520 756 520 756 535.5 742 c 128,-1,33
+ 551 728 551 728 551 705 c 2,34,-1
+ 551 -34 l 2,22,23
+464 -2 m 1,35,-1
+ 464 671 l 1,36,-1
+ 103 671 l 1,37,-1
+ 103 -2 l 1,38,-1
+ 464 -2 l 1,35,-1
+EndSplineSet
+Validated: 19461
+EndChar

@@ -1,0 +1,61 @@
+StartChar: SplitStile
+Encoding: 166 166 105
+Width: 600
+GlyphClass: 2
+Flags: W
+VStem: 257 86<-59.615 290.232 354.314 693.839>
+TtInstrs:
+SVTCA[y-axis]
+SVTCA[x-axis]
+PUSHB_1
+ 23
+MDAP[rnd]
+PUSHB_1
+ 17
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 5
+SHP[rp2]
+PUSHB_2
+ 13
+ 9
+MIRP[min,black]
+PUSHB_1
+ 0
+SHP[rp2]
+PUSHB_2
+ 13
+ 9
+MIRP[min,black]
+PUSHB_1
+ 13
+SRP0
+PUSHB_1
+ 24
+MDRP[rp0,rnd,white]
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+343 381 m 2,0,1
+ 343 344 343 344 303 344 c 0,2,3
+ 285 344 285 344 271 354 c 128,-1,4
+ 257 364 257 364 257 382 c 2,5,-1
+ 257 668 l 2,6,7
+ 257 682 257 682 273 691 c 0,8,9
+ 287 699 287 699 301 699 c 0,10,11
+ 343 699 343 699 343 670 c 2,12,-1
+ 343 381 l 2,0,1
+343 -34 m 2,13,14
+ 343 -62 343 -62 298 -65 c 1,15,16
+ 257 -58 257 -58 257 -33 c 2,17,-1
+ 257 259 l 2,18,19
+ 257 294 257 294 305 294 c 0,20,21
+ 343 294 343 294 343 263 c 2,22,-1
+ 343 -34 l 2,13,14
+EndSplineSet
+Validated: 19457
+EndChar

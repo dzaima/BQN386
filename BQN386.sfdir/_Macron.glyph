@@ -1,0 +1,56 @@
+StartChar: Macron
+Encoding: 772 772 381
+Width: 600
+GlyphClass: 2
+Flags: W
+HStem: 768 87<103.276 497.896>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_1
+ 5
+MDAP[rnd]
+PUSHB_2
+ 14
+ 4
+MIRP[min,black]
+PUSHB_2
+ 14
+ 4
+MIRP[min,black]
+SVTCA[x-axis]
+PUSHB_1
+ 18
+MDAP[rnd]
+PUSHB_1
+ 19
+MDRP[rp0,rnd,white]
+SVTCA[y-axis]
+PUSHB_2
+ 14
+ 5
+SRP1
+SRP2
+PUSHB_1
+ 10
+IP
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+504 811 m 0,0,1
+ 504 772 504 772 464 768 c 0,2,3
+ 424 768 424 768 283 768 c 2,4,-1
+ 192 768 l 2,5,6
+ 185 768 185 768 169.5 767 c 128,-1,7
+ 154 766 154 766 147 766 c 0,8,9
+ 98 766 98 766 98 810 c 0,10,11
+ 98 825 98 825 106 839 c 0,12,13
+ 115 855 115 855 130 855 c 2,14,-1
+ 463 855 l 2,15,16
+ 480 855 480 855 492 841.5 c 128,-1,17
+ 504 828 504 828 504 811 c 0,0,1
+EndSplineSet
+Validated: 19457
+EndChar

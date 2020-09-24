@@ -1,0 +1,44 @@
+StartChar: uni257E
+Encoding: 9598 9598 991
+Width: 600
+VWidth: 0
+HStem: 237 172<-11 327>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_1
+ 6
+MDAP[rnd]
+PUSHB_2
+ 7
+ 8
+MIRP[min,black]
+PUSHB_2
+ 7
+ 8
+MIRP[min,black]
+SVTCA[x-axis]
+PUSHB_1
+ 8
+MDAP[rnd]
+PUSHB_1
+ 9
+MDRP[rp0,rnd,white]
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+327 409 m 1,0,-1
+ 327 366 l 1,1,-1
+ 611 366 l 1,2,-1
+ 611 280 l 1,3,-1
+ 327 280 l 1,4,-1
+ 327 237 l 1,5,-1
+ -11 237 l 1,6,-1
+ -11 409 l 1,7,-1
+ 327 409 l 1,0,-1
+EndSplineSet
+Validated: 19457
+EndChar

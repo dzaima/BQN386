@@ -1,0 +1,119 @@
+StartChar: FL03BDh
+Encoding: 957 957 443
+Width: 600
+GlyphClass: 2
+Flags: W
+HStem: 465 20G<117 153.5 446.5 486.5>
+DStem2: 297 127 364 77.5 0.332669 0.943044<0 376.965>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 15
+ 2
+ 0
+CALL
+PUSHB_1
+ 21
+SHP[rp1]
+SVTCA[x-axis]
+PUSHB_1
+ 23
+MDAP[rnd]
+PUSHB_1
+ 24
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 54
+SMD
+PUSHW_3
+ 15451
+ -5450
+ 21
+CALL
+SPVFS
+SFVTPV
+PUSHB_1
+ 18
+SRP0
+PUSHB_1
+ 19
+MDRP[grey]
+PUSHB_2
+ 4
+ 6
+MIRP[rp0,min,black]
+PUSHB_1
+ 2
+MDRP[grey]
+PUSHB_4
+ 3
+ 4
+ 2
+ 19
+CALL
+PUSHB_3
+ 3
+ 4
+ 2
+DUP
+ROLL
+DUP
+ROLL
+SWAP
+SPVTL[parallel]
+SFVTPV
+SRP1
+SRP2
+IP
+SVTCA[y-axis]
+PUSHB_5
+ 2
+ 18
+ 19
+ 3
+ 4
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+SVTCA[x-axis]
+PUSHB_5
+ 2
+ 18
+ 19
+ 3
+ 4
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+PUSHB_1
+ 64
+SMD
+SVTCA[x-axis]
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+502 455 m 0,0,1
+ 502 438 502 438 422 233 c 0,2,3
+ 387 136 387 136 364 77.5 c 128,-1,4
+ 341 19 341 19 331 -1 c 0,5,6
+ 321 -23 321 -23 299 -23 c 0,7,8
+ 273 -23 273 -23 260 1 c 0,9,10
+ 247 23 247 23 172 233 c 0,11,12
+ 97 441 97 441 97 452 c 0,13,14
+ 97 485 97 485 137 485 c 0,15,16
+ 170 485 170 485 182 456 c 2,17,-1
+ 297 127 l 1,18,-1
+ 412 453 l 2,19,20
+ 422 486 422 486 471 486 c 0,21,22
+ 502 486 502 486 502 455 c 0,0,1
+EndSplineSet
+Validated: 19457
+EndChar

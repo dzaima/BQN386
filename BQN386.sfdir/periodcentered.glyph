@@ -1,0 +1,60 @@
+StartChar: periodcentered
+Encoding: 183 183 122
+Width: 600
+GlyphClass: 2
+Flags: W
+HStem: 266 98<265.47 335.045>
+VStem: 250 100<280.439 349.046>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_1
+ 9
+MDAP[rnd]
+PUSHB_2
+ 3
+ 7
+MIRP[min,black]
+PUSHB_2
+ 3
+ 7
+MIRP[min,black]
+SVTCA[x-axis]
+PUSHB_1
+ 12
+MDAP[rnd]
+PUSHB_1
+ 0
+MDRP[rp0,rnd,white]
+PUSHB_2
+ 6
+ 11
+MIRP[min,black]
+PUSHB_2
+ 6
+ 11
+MIRP[min,black]
+PUSHB_1
+ 6
+SRP0
+PUSHB_1
+ 13
+MDRP[rp0,rnd,white]
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+250 315 m 0,0,1
+ 250 335 250 335 265 349.5 c 128,-1,2
+ 280 364 280 364 300 364 c 0,3,4
+ 321 364 321 364 335.5 349.5 c 128,-1,5
+ 350 335 350 335 350 315 c 0,6,7
+ 350 294 350 294 335.5 280 c 128,-1,8
+ 321 266 321 266 300 266 c 0,9,10
+ 280 266 280 266 265 280 c 128,-1,11
+ 250 294 250 294 250 315 c 0,0,1
+EndSplineSet
+Validated: 19457
+EndChar

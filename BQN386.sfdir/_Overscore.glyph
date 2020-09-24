@@ -1,0 +1,46 @@
+StartChar: Overscore
+Encoding: 773 773 382
+Width: 600
+GlyphClass: 2
+Flags: W
+HStem: 763 87<86.7158 526.528>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_1
+ 4
+MDAP[rnd]
+PUSHB_2
+ 9
+ 4
+MIRP[min,black]
+PUSHB_2
+ 9
+ 4
+MIRP[min,black]
+SVTCA[x-axis]
+PUSHB_1
+ 13
+MDAP[rnd]
+PUSHB_1
+ 14
+MDRP[rp0,rnd,white]
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+542 805 m 256,0,1
+ 542 785 542 785 529.5 774 c 128,-1,2
+ 517 763 517 763 483 763 c 2,3,-1
+ 122 763 l 2,4,5
+ 106 763 106 763 93 776.5 c 128,-1,6
+ 80 790 80 790 80 810 c 0,7,8
+ 80 850 80 850 127 850 c 2,9,-1
+ 483 850 l 2,10,11
+ 512 850 512 850 527 837.5 c 128,-1,12
+ 542 825 542 825 542 805 c 256,0,1
+EndSplineSet
+Validated: 19457
+EndChar

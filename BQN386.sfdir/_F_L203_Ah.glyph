@@ -1,0 +1,52 @@
+StartChar: FL203Ah
+Encoding: 8250 8250 585
+Width: 600
+GlyphClass: 2
+Flags: W
+VStem: 163 276
+TtInstrs:
+SVTCA[y-axis]
+SVTCA[x-axis]
+PUSHB_1
+ 23
+MDAP[rnd]
+PUSHB_1
+ 19
+MDRP[rp0,rnd,white]
+PUSHB_5
+ 4
+ 12
+ 0
+ 8
+ 4
+CALL
+PUSHB_1
+ 4
+SRP0
+PUSHB_1
+ 24
+MDRP[rp0,rnd,white]
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+219 454 m 2,0,1
+ 400 304 l 2,2,3
+ 441 271 441 271 439 254 c 0,4,5
+ 439 244 439 244 430 234 c 0,6,7
+ 425 229 425 229 403 210 c 2,8,-1
+ 226 59 l 2,9,10
+ 210 46 210 46 197 49 c 0,11,12
+ 167 57 167 57 169 96 c 0,13,14
+ 170 115 170 115 185 130 c 2,15,-1
+ 315 254 l 1,16,-1
+ 181 374 l 2,17,18
+ 164 390 164 390 163 407 c 0,19,20
+ 159 449 159 449 191 460 c 0,21,22
+ 204 466 204 466 219 454 c 2,0,1
+EndSplineSet
+Validated: 19489
+EndChar

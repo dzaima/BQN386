@@ -1,0 +1,63 @@
+StartChar: FL2016h
+Encoding: 8214 8214 569
+Width: 600
+GlyphClass: 2
+Flags: W
+VStem: 174 87<-109.232 748.963> 360 87<-106.232 751.963>
+TtInstrs:
+SVTCA[y-axis]
+SVTCA[x-axis]
+PUSHB_1
+ 22
+MDAP[rnd]
+PUSHB_1
+ 4
+MDRP[rp0,rnd,white]
+PUSHB_2
+ 0
+ 9
+MIRP[min,black]
+PUSHB_1
+ 0
+SRP0
+PUSHB_3
+ 4
+ 15
+ 16
+CALL
+PUSHB_2
+ 11
+ 9
+MIRP[min,black]
+PUSHB_1
+ 11
+SRP0
+PUSHB_1
+ 23
+MDRP[rp0,rnd,white]
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+261 -78 m 2,0,1
+ 261 -113 261 -113 214 -113 c 0,2,3
+ 174 -113 174 -113 174 -80 c 2,4,-1
+ 174 715 l 2,5,6
+ 174 754 174 754 220 754 c 0,7,8
+ 235 754 235 754 247.5 743.5 c 128,-1,9
+ 260 733 260 733 261 718 c 2,10,-1
+ 261 -78 l 2,0,1
+447 -75 m 2,11,12
+ 447 -110 447 -110 400 -110 c 0,13,14
+ 360 -110 360 -110 360 -77 c 2,15,-1
+ 360 718 l 2,16,17
+ 360 757 360 757 406 757 c 0,18,19
+ 421 757 421 757 433.5 746.5 c 128,-1,20
+ 446 736 446 736 447 721 c 2,21,-1
+ 447 -75 l 2,11,12
+EndSplineSet
+Validated: 19457
+EndChar

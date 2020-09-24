@@ -1,0 +1,55 @@
+StartChar: uni220E
+Encoding: 8718 8718 633
+Width: 600
+GlyphClass: 2
+Flags: W
+VStem: 16 535<-82.2656 741.56>
+TtInstrs:
+SVTCA[y-axis]
+SVTCA[x-axis]
+PUSHB_1
+ 13
+MDAP[rnd]
+PUSHB_1
+ 5
+MDRP[rp0,rnd,white]
+PUSHB_5
+ 0
+ 12
+ 0
+ 7
+ 4
+CALL
+PUSHB_5
+ 0
+ 12
+ 0
+ 7
+ 4
+CALL
+PUSHB_1
+ 0
+SRP0
+PUSHB_1
+ 14
+MDRP[rp0,rnd,white]
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+551 -35 m 2,0,1
+ 551 -90 551 -90 497 -90 c 2,2,-1
+ 63 -90 l 2,3,4
+ 16 -90 16 -90 16 -35 c 2,5,-1
+ 16 700 l 2,6,7
+ 16 756 16 756 71 756 c 2,8,-1
+ 497 756 l 2,9,10
+ 520 756 520 756 535.5 742 c 128,-1,11
+ 551 728 551 728 551 705 c 2,12,-1
+ 551 -35 l 2,0,1
+EndSplineSet
+Validated: 19457
+EndChar

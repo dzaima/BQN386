@@ -1,0 +1,62 @@
+StartChar: quotesingle
+Encoding: 39 39 10
+Width: 600
+GlyphClass: 2
+Flags: W
+HStem: 464 275<270.407 339.966>
+VStem: 257 86<475.345 736.356>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_1
+ 3
+MDAP[rnd]
+PUSHB_5
+ 10
+ 8
+ 0
+ 8
+ 4
+CALL
+SVTCA[x-axis]
+PUSHB_1
+ 13
+MDAP[rnd]
+PUSHB_1
+ 6
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 8
+SHP[rp2]
+PUSHB_2
+ 0
+ 9
+MIRP[min,black]
+PUSHB_2
+ 0
+ 9
+MIRP[min,black]
+PUSHB_1
+ 0
+SRP0
+PUSHB_1
+ 14
+MDRP[rp0,rnd,white]
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+343 499 m 2,0,1
+ 343 483 343 483 329.5 473.5 c 128,-1,2
+ 316 464 316 464 300 464 c 0,3,4
+ 283 464 283 464 270 475 c 128,-1,5
+ 257 486 257 486 257 503 c 2,6,7
+ 257 709 l 2,8,9
+ 257 739 257 739 300 739 c 256,10,11
+ 343 739 343 739 343 714 c 2,12,-1
+ 343 499 l 2,0,1
+EndSplineSet
+Validated: 19457
+EndChar

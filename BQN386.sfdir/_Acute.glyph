@@ -1,0 +1,66 @@
+StartChar: Acute
+Encoding: 769 769 378
+Width: 600
+GlyphClass: 2
+Flags: W
+HStem: 713 213
+VStem: 188 221
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_1
+ 11
+MDAP[rnd]
+PUSHB_5
+ 4
+ 8
+ 0
+ 10
+ 4
+CALL
+PUSHB_5
+ 4
+ 8
+ 0
+ 10
+ 4
+CALL
+SVTCA[x-axis]
+PUSHB_1
+ 14
+MDAP[rnd]
+PUSHB_2
+ 0
+ 1
+CALL
+PUSHB_5
+ 7
+ 12
+ 0
+ 10
+ 4
+CALL
+PUSHB_1
+ 7
+SRP0
+PUSHB_1
+ 15
+MDRP[rp0,rnd,white]
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+188 759 m 0,0,1
+ 188 770 188 770 196 778 c 0,2,3
+ 338 926 338 926 364 926 c 0,4,5
+ 381 926 381 926 395 911.5 c 128,-1,6
+ 409 897 409 897 409 880 c 0,7,8
+ 409 867 409 867 399 857 c 0,9,10
+ 256 713 256 713 234 713 c 0,11,12
+ 217 713 217 713 202.5 727.5 c 128,-1,13
+ 188 742 188 742 188 759 c 0,0,1
+EndSplineSet
+Validated: 19457
+EndChar

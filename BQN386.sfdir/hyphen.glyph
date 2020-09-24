@@ -1,0 +1,45 @@
+StartChar: hyphen
+Encoding: 45 45 16
+Width: 600
+GlyphClass: 2
+Flags: W
+HStem: 275 79<107.252 496.705>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_1
+ 3
+MDAP[rnd]
+PUSHB_2
+ 9
+ 6
+MIRP[min,black]
+PUSHB_2
+ 9
+ 6
+MIRP[min,black]
+SVTCA[x-axis]
+PUSHB_1
+ 14
+MDAP[rnd]
+PUSHB_1
+ 15
+MDRP[rp0,rnd,white]
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+502 313 m 0,0,1
+ 502 275 502 275 461 275 c 2,2,-1
+ 143 275 l 2,3,4
+ 100 275 100 275 100 314 c 0,5,6
+ 100 327 100 327 107 340 c 0,7,8
+ 115 354 115 354 131 354 c 2,9,-1
+ 463 354 l 2,10,11
+ 477 354 477 354 490 341 c 0,12,13
+ 502 329 502 329 502 313 c 0,0,1
+EndSplineSet
+Validated: 19457
+EndChar

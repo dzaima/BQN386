@@ -1,0 +1,75 @@
+StartChar: Circumflex
+Encoding: 770 770 379
+Width: 600
+GlyphClass: 2
+Flags: W
+HStem: 705 216
+VStem: 149 299<737 763>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_1
+ 3
+MDAP[rnd]
+PUSHB_1
+ 11
+SHP[rp1]
+PUSHB_5
+ 17
+ 8
+ 0
+ 10
+ 4
+CALL
+SVTCA[x-axis]
+PUSHB_1
+ 21
+MDAP[rnd]
+PUSHB_2
+ 14
+ 1
+CALL
+PUSHB_5
+ 0
+ 12
+ 0
+ 7
+ 4
+CALL
+PUSHB_1
+ 0
+SRP0
+PUSHB_1
+ 22
+MDRP[rp0,rnd,white]
+SVTCA[y-axis]
+PUSHB_2
+ 17
+ 3
+SRP1
+SRP2
+PUSHB_1
+ 8
+IP
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+448 755 m 0,0,1
+ 448 737 448 737 433.5 721 c 128,-1,2
+ 419 705 419 705 402 705 c 256,3,4
+ 385 705 385 705 348 745 c 0,5,6
+ 336 759 336 759 324 772 c 128,-1,7
+ 312 785 312 785 301 799 c 1,8,-1
+ 253 745 l 2,9,10
+ 216 705 216 705 195 705 c 0,11,12
+ 177 705 177 705 163 719 c 128,-1,13
+ 149 733 149 733 149 751 c 0,14,15
+ 149 765 149 765 218 843 c 128,-1,16
+ 287 921 287 921 302 921 c 256,17,18
+ 317 921 317 921 443 768 c 0,19,20
+ 448 763 448 763 448 755 c 0,0,1
+EndSplineSet
+Validated: 19457
+EndChar

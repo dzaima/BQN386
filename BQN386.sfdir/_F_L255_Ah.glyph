@@ -1,0 +1,104 @@
+StartChar: FL255Ah
+Encoding: 9562 9562 829
+Width: 600
+GlyphClass: 2
+Flags: W
+HStem: 192 87<242 600> 366 87<415 600>
+VStem: 155 87<279 910> 328 87<453 910>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_1
+ 8
+MDAP[rnd]
+PUSHB_2
+ 11
+ 4
+MIRP[min,black]
+PUSHB_1
+ 5
+MDAP[rnd]
+PUSHB_2
+ 2
+ 4
+MIRP[min,black]
+PUSHB_3
+ 2
+ 5
+ 10
+CALL
+PUSHB_4
+ 64
+ 2
+ 0
+ 9
+CALL
+PUSHB_1
+ 9
+SHP[rp2]
+SVTCA[x-axis]
+PUSHB_1
+ 12
+MDAP[rnd]
+PUSHB_1
+ 8
+MDRP[rp0,rnd,white]
+PUSHB_2
+ 11
+ 9
+MIRP[min,black]
+PUSHB_1
+ 11
+SRP0
+PUSHB_3
+ 8
+ 5
+ 16
+CALL
+PUSHB_2
+ 2
+ 9
+MIRP[min,black]
+PUSHB_3
+ 2
+ 5
+ 10
+CALL
+PUSHB_4
+ 64
+ 2
+ 4
+ 9
+CALL
+PUSHB_1
+ 6
+SHP[rp2]
+PUSHB_1
+ 2
+SRP0
+PUSHB_1
+ 13
+MDRP[rp0,rnd,white]
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+328 910 m 1,0,-1
+ 415 910 l 1,1,-1
+ 415 453 l 1,2,-1
+ 600 453 l 1,3,-1
+ 600 366 l 1,4,-1
+ 328 366 l 1,5,-1
+ 328 910 l 1,0,-1
+600 279 m 1,6,-1
+ 600 192 l 1,7,-1
+ 155 192 l 1,8,-1
+ 155 910 l 1,9,-1
+ 242 910 l 1,10,-1
+ 242 279 l 1,11,-1
+ 600 279 l 1,6,-1
+EndSplineSet
+Validated: 19457
+EndChar

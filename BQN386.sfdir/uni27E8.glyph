@@ -1,0 +1,117 @@
+StartChar: uni27E8
+Encoding: 10216 10216 906
+Width: 600
+Flags: W
+DStem2: 268.916 314.197 188.539 314.396 0.438486 -0.898738<-17.1725 434.856> 188.539 314.396 268.916 314.197 0.439345 0.898318<35.1351 476.822>
+TtInstrs:
+SVTCA[y-axis]
+SVTCA[x-axis]
+PUSHB_1
+ 14
+MDAP[rnd]
+PUSHB_1
+ 15
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 54
+SMD
+PUSHW_3
+ 14718
+ -7198
+ 21
+CALL
+SPVFS
+SFVTPV
+PUSHB_1
+ 11
+SRP0
+PUSHB_1
+ 12
+MDRP[grey]
+PUSHB_2
+ 4
+ 24
+MIRP[rp0,min,black]
+PUSHB_1
+ 2
+MDRP[grey]
+PUSHW_3
+ -14725
+ -7184
+ 21
+CALL
+SPVFS
+PUSHB_2
+ 11
+ 12
+SFVTL[parallel]
+PUSHB_1
+ 11
+SRP0
+SFVTPV
+PUSHB_1
+ 9
+MDRP[grey]
+PUSHB_2
+ 4
+ 2
+SFVTL[parallel]
+PUSHB_2
+ 4
+ 24
+MIRP[rp0,min,black]
+SFVTPV
+PUSHB_1
+ 5
+MDRP[grey]
+SVTCA[y-axis]
+PUSHB_6
+ 2
+ 4
+ 5
+ 9
+ 11
+ 12
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+SVTCA[x-axis]
+PUSHB_6
+ 2
+ 4
+ 5
+ 9
+ 11
+ 12
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+PUSHB_1
+ 64
+SMD
+SVTCA[x-axis]
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+430 730 m 0,0,1
+ 460 715 460 715 446 686 c 0,2,3
+ 322 424 322 424 269 314 c 1,4,-1
+ 446 -49 l 2,5,6
+ 461 -78 461 -78 428 -94 c 0,7,8
+ 397 -109 397 -109 383 -80 c 0,9,10
+ 356 -22 356 -22 189 314 c 1,11,-1
+ 384 714 l 2,12,13
+ 399 745 399 745 430 730 c 0,0,1
+EndSplineSet
+Validated: 19489
+EndChar

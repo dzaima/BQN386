@@ -1,0 +1,47 @@
+StartChar: stile
+Encoding: 8739 8739 649
+Width: 600
+GlyphClass: 2
+Flags: W
+VStem: 256 87<-109.232 748.963>
+TtInstrs:
+SVTCA[y-axis]
+SVTCA[x-axis]
+PUSHB_1
+ 11
+MDAP[rnd]
+PUSHB_1
+ 4
+MDRP[rp0,rnd,white]
+PUSHB_2
+ 0
+ 9
+MIRP[min,black]
+PUSHB_2
+ 0
+ 9
+MIRP[min,black]
+PUSHB_1
+ 0
+SRP0
+PUSHB_1
+ 12
+MDRP[rp0,rnd,white]
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+343 -78 m 2,0,1
+ 343 -113 343 -113 296 -113 c 0,2,3
+ 256 -113 256 -113 256 -80 c 2,4,-1
+ 256 715 l 2,5,6
+ 256 754 256 754 302 754 c 0,7,8
+ 317 754 317 754 329.5 743.5 c 128,-1,9
+ 342 733 342 733 343 718 c 2,10,-1
+ 343 -78 l 2,0,1
+EndSplineSet
+Validated: 19457
+EndChar

@@ -1,0 +1,257 @@
+StartChar: glyph98
+Encoding: 902 902 391
+Width: 600
+GlyphClass: 2
+Flags: W
+HStem: -11 21G<124 151.5 509 520> 199 87<259 392>
+DStem2: 95 41 181 26 0.299538 0.954084<-16.8791 192.98 282.875 514.451> 187 739 108 556 0.717983 0.69606<-223.572 33.245> 365 646 325 508 0.302488 -0.953153<119.436 351.302 581.695 652.531>
+TtInstrs:
+SVTCA[y-axis]
+PUSHB_3
+ 18
+ 1
+ 0
+CALL
+PUSHB_1
+ 8
+SHP[rp1]
+PUSHB_1
+ 15
+MDAP[rnd]
+PUSHB_1
+ 14
+SHP[rp1]
+PUSHB_2
+ 32
+ 4
+MIRP[min,black]
+PUSHB_1
+ 33
+SHP[rp2]
+PUSHB_3
+ 32
+ 15
+ 10
+CALL
+PUSHB_4
+ 64
+ 32
+ 29
+ 9
+CALL
+SVTCA[x-axis]
+PUSHB_1
+ 52
+MDAP[rnd]
+PUSHB_1
+ 53
+MDRP[rp0,rnd,white]
+PUSHB_1
+ 54
+SMD
+PUSHW_3
+ 11404
+ -11763
+ 21
+CALL
+SPVFS
+SFVTPV
+PUSHB_1
+ 34
+SRP0
+PUSHB_1
+ 35
+MDRP[grey]
+PUSHB_2
+ 44
+ 5
+MIRP[rp0,min,black]
+PUSHB_1
+ 42
+MDRP[grey]
+PUSHW_3
+ 15632
+ -4908
+ 21
+CALL
+SPVFS
+SFVTPV
+PUSHB_1
+ 25
+SRP0
+PUSHB_1
+ 26
+MDRP[grey]
+PUSHB_2
+ 16
+ 4
+MIRP[rp0,min,black]
+PUSHB_1
+ 31
+MDRP[grey]
+PUSHW_3
+ -15616
+ -4956
+ 21
+CALL
+SPVFS
+PUSHB_2
+ 16
+ 31
+SFVTL[parallel]
+PUSHB_1
+ 31
+SRP0
+SFVTPV
+PUSHB_1
+ 13
+MDRP[grey]
+PUSHB_2
+ 0
+ 6
+MIRP[rp0,min,black]
+PUSHB_1
+ 2
+MDRP[grey]
+SFVTCA[x-axis]
+PUSHB_1
+ 31
+SRP0
+PUSHB_4
+ 14
+ 31
+ 13
+ 19
+CALL
+PUSHB_1
+ 16
+SRP0
+PUSHB_4
+ 15
+ 16
+ 31
+ 19
+CALL
+PUSHB_4
+ 32
+ 16
+ 31
+ 19
+CALL
+PUSHB_1
+ 31
+SRP0
+PUSHB_4
+ 33
+ 31
+ 13
+ 19
+CALL
+SPVTCA[x-axis]
+SVTCA[y-axis]
+NPUSHB
+ 11
+ 0
+ 2
+ 13
+ 16
+ 25
+ 26
+ 31
+ 34
+ 35
+ 42
+ 44
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+SVTCA[x-axis]
+NPUSHB
+ 15
+ 0
+ 2
+ 13
+ 14
+ 15
+ 16
+ 25
+ 26
+ 31
+ 32
+ 33
+ 34
+ 35
+ 42
+ 44
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+MDAP[no-rnd]
+PUSHB_1
+ 64
+SMD
+SVTCA[y-axis]
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+365 646 m 2,0,1
+ 557 41 l 2,2,3
+ 560 32 560 32 560 23 c 0,4,5
+ 560 13 560 13 555 3 c 0,6,7
+ 545 -7 545 -7 528 -10 c 0,8,9
+ 524 -11 524 -11 516 -11 c 0,10,11
+ 502 -11 502 -11 489.5 -3.5 c 128,-1,12
+ 477 4 477 4 470 24 c 2,13,-1
+ 412 199 l 1,14,-1
+ 236 199 l 1,15,-1
+ 181 26 l 2,16,17
+ 169 -11 169 -11 134 -11 c 2,18,-1
+ 124 -10 l 2,19,20
+ 108 -7 108 -7 99 3 c 0,21,22
+ 92 11 92 11 92 24 c 0,23,24
+ 92 32 92 32 95 41 c 2,25,-1
+ 284 643 l 2,26,27
+ 299 689 299 689 324 689 c 2,28,-1
+ 326 689 l 2,29,30
+ 351 688 351 688 365 646 c 2,0,1
+325 508 m 1,31,-1
+ 259 286 l 1,32,-1
+ 392 286 l 1,33,-1
+ 325 508 l 1,31,-1
+57 612 m 2,34,-1
+ 187 739 l 2,35,36
+ 199 751 199 751 215 751 c 2,37,-1
+ 219 751 l 2,38,39
+ 252 750 252 750 257 715 c 0,40,41
+ 257 701 257 701 239 683 c 2,42,43
+ 108 556 l 2,44,45
+ 85 535 85 535 73 535 c 0,46,47
+ 58 536 58 536 48.5 547 c 128,-1,48
+ 39 558 39 558 39 575 c 2,49,-1
+ 39 577 l 2,50,51
+ 41 597 41 597 57 612 c 2,34,-1
+EndSplineSet
+Validated: 19457
+EndChar
