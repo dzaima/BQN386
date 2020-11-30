@@ -2,7 +2,7 @@ StartChar: FL02DCh
 Encoding: 732 732 376
 Width: 600
 GlyphClass: 2
-Flags: WO
+Flags: W
 HStem: 615 75<339.486 440.671> 686 82<166.219 260.853>
 TtInstrs:
 SVTCA[y-axis]
