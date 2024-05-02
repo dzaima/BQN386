@@ -48,6 +48,9 @@
       text-align: right;
       width: 100%;
     }
+    td.c {
+      white-space:pre-wrap;
+    }
     tr {
       background-color: #1c1c1c;
     }
@@ -109,7 +112,8 @@ Adám Brudzewsky, which is based on <a href="http://apl385.com/">APL385</a> by A
   <br>
   All characters:
   <div class="code" id="allchars"></div>
-  <div class="code" id="list"></div>
+  <br>
+  <div id="list"></div>
   
   <script>
     let chars = [..." !\"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĀāĂăĄąĆćĈĉĊċČčĎďĐđĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħĨĩĪīĬĭĮįİıĲĳĴĵĶķĸĹĺĻļĽľĿŀŁłŃńŅņŇňŉŊŋŌōŎŏŐőŒœŔŕŖŗŘřŚśŜŝŞşŠšŢţŤťŦŧŨũŪūŬŭŮůŰűŲųŴŵŶŷŸŹźŻżŽžſƆƐƒƖƩǍǎǏǐǑǒǓǔǝǢǣǦǧǨǩǰǴǵǸǹǺǻǼǽǾǿȞȟȦȧȨȩȮȯȲȳȷɐɑɒɔɘəɛɜɩʃˆ˘˙˜˝̀́̂̃̄̅̆Ͷͷͻͼͽ;ͿΆ·ΈΉΊΌΎΏΐΑΒΓΔΕΖΗΘΙΚΛΜΝΞΟΠΡΣΤΥΦΧΨΩΪΫάέήίΰαβγδεζηθικλμνξοπρςστυφχψωϊϋόύώϕϖϜϝϱϲϳϴϵ϶ϷϸϹϼϽϾϿЀЁЂЃЄЅІЇЈЌЍЎЏАБВГДЕЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдежзийклмнопрстуфхцчшщъыьэюяѐёѓєѕіїјўᐵᑈ–—―‖‗‘’‚‛“”„‟†‡•…‰‹›‼‽‿⁄⁰ⁱ⁲⁳⁴⁵⁶⁷⁸⁹⁺⁻⁼⁽⁾₀₁₂₃₄₅₆₇₈₉₊₋₌₍₎₧€ℝ™←↑→↓↔↕↖↗↘↙↩↶↷⇐⇧∅∆∇∉∊∎∏∐∑−∓∔∕∖∗∘∙√∛∜∞∣∥∧∨∩∪∫∵∼∾≈≉≍≠≡≢≣≤≥⊂⊃⊆⊇⊏⊐⊑⊒⊔⊖⊘⊙⊚⊛⊝⊢⊣⊤⊥⊸⊻⊼⊽⋄⋅⋆⋈⋔⌈⌉⌊⌋⌜⌦⌫⌶⌷⌸⌹⌺⌻⌼⌽⌾⌿⍀⍁⍂⍃⍄⍅⍆⍇⍈⍉⍊⍋⍌⍍⍎⍏⍐⍑⍒⍓⍔⍕⍖⍗⍘⍙⍚⍛⍜⍝⍞⍟⍠⍡⍢⍣⍤⍥⍦⍧⍨⍩⍪⍫⍬⍭⍮⍯⍰⍱⍲⍳⍴⍵⍶⍷⍸⍹⍺⎉⎊⎕⎶⏎␀ⒶⒷⒸⒹⒺⒻⒼⒽⒾⒿⓀⓁⓂⓃⓄⓅⓆⓇⓈⓉⓊⓋⓌⓍⓎⓏⓐⓑⓒⓓⓔⓕⓖⓗⓘⓙⓚⓛⓜⓝⓞⓟⓠⓡⓢⓣⓤⓥⓦⓧⓨⓩ─━│┃┌┍┎┏┐┑┒┓└┕┖┗┘┙┚┛├┝┞┟┠┡┢┣┤┥┦┧┨┩┪┫┬┭┮┯┰┱┲┳┴┵┶┷┸┹┺┻┼┽┾┿╀╁╂╃╄╅╆╇╈╉╊╋═║╔╗╚╝╞╟╠╡╢╣╤╥╦╧╨╩╪╫╬╸╹╺╻╼╽╾╿▀▁▂▃▄▅▆▇█▉▊▋▌▍▎▏▐░▒▓▔▕▯▲▼◇◊○◎◦◯◴◵◶◷♀♂♔♕♖♗♘♙♚♛♜♝♞♟♠♡♢♣♤♥♦♧⚇⟜⟦⟧⟨⟩⥊⥌⦃⦄⦅⦆⧵⬫𝔽𝔾𝕊𝕎𝕏𝕗𝕘𝕣𝕤𝕨𝕩🠬🠮"];
@@ -120,19 +124,19 @@ Adám Brudzewsky, which is based on <a href="http://apl385.com/">APL385</a> by A
     
     let tbl = [...rows].sort((a,b)=>a-b).map(c => [
       (c<<4).toString(16).padStart(4,'0').toUpperCase(),
-      ...Array(16).fill().map((_,i)=>(c<<4)+i).map(c=>charset.has(c)? String.fromCodePoint(c) : "")
+      ...Array(16).fill().map((_,i)=>(c<<4)+i).map(c=>charset.has(c)? String.fromCodePoint(c) : '')
     ]);
     
     allchars.innerText = chars.join('').replace(/[\x7f\xa0\xad]/g, '').match(/.{1,50}/g).join('\n').replace(/[\u0300\u0301\u0302\u0303\u0304\u0305\u0306]/g, c=>'◌'+c);
     
-    list.innerHTML = "<table><tbody>"+
+    list.innerHTML = '<table><tbody>'+
       tbl.map(r=>
-        "<tr>"+r.map((c,i)=>
-          "<td"+(i==0?" class=f":"")+">"+
+        '<tr>'+r.map((c,i)=>
+          `<td class=${i==0?'f':'c'}>`+
             c.replace('<','&lt;')+
-          "</td>").join('')+
-        "</tr>").join('')+
-    "</tbody></table>"
+          '</td>').join('')+
+        '</tr>').join('')+
+    '</tbody></table>'
   </script>
 </body>
 </html>
