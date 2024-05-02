@@ -17,17 +17,24 @@
       padding: 0 0.62em;
       line-height: 1.6;
     }
-    body, code, .code {
+    body, code, .code, textarea {
       font-family: BQN386, "BQN386 Unicode";
     }
-    .code, code {
+    .code, code, textarea {
       background-color: #141414;
+      color: #D2D2D2;
       border: 1px solid rgba(255,255,255,.1);
       white-space:pre-wrap;
     }
-    .code {
+    .code, textarea {
       padding: .8em;
       border-radius: 6px;
+    }
+    textarea {
+      font-size: 16px;
+      width: 100%;
+      height: 8em;
+      box-sizing: border-box;
     }
     code {
       padding: 0.15em 0.1em 0.05em;
@@ -96,7 +103,7 @@
 <body>
   <div id=title><h1>BQN386</h1><a href="BQN386.ttf">ttf</a>, <a href="BQN386.woff2">woff2</a></div>
   
-  An APL and BQN font extending on <a href="https://abrudz.github.io/APL386/">APL386</a> by 
+  An APL and BQN font extending <a href="https://abrudz.github.io/APL386/">APL386</a> by 
 Adám Brudzewsky, which is based on <a href="http://apl385.com/">APL385</a> by Adrian Smith.
   <br><br>
   This font keeps regular APL characters mostly intact (with an exception being making <code>○</code>-based charcters larger):
@@ -110,6 +117,12 @@ Adám Brudzewsky, which is based on <a href="http://apl385.com/">APL385</a> by A
 `˜˘¨⁼⌜´˝˙  ∘⊸⟜○⌾⎉⚇⍟⊘◶⎊
 π‿∞‿@↩←⇐→,⋄  𝕨𝕩𝔽𝔾𝕎𝕏𝕗𝕘𝕊𝕤ℝ𝕣⦃⦄⟨⟩</div>
   <br>
+  
+  Try it:
+  <br>
+  <textarea spellcheck="false" placeholder="Type here..."></textarea>
+  <br>
+  
   All characters:
   <div class="code" id="allchars"></div>
   <br>
