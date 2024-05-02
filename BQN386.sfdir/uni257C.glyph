@@ -2,6 +2,7 @@ StartChar: uni257C
 Encoding: 9596 9596 989
 Width: 600
 VWidth: 0
+Flags: W
 HStem: 237 172<241 611>
 TtInstrs:
 SVTCA[y-axis]

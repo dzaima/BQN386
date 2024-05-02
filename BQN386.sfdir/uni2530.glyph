@@ -2,6 +2,7 @@ StartChar: uni2530
 Encoding: 9520 9520 959
 Width: 600
 VWidth: 0
+Flags: W
 HStem: 280 86<-11 198 370 611>
 VStem: 198 172<-245 280>
 TtInstrs:

@@ -1,6 +1,7 @@
 StartChar: triagdn
 Encoding: 9660 9660 1007
 Width: 600
+Flags: W
 LayerCount: 2
 Fore
 SplineSet

@@ -1,6 +1,7 @@
 StartChar: uni2199
 Encoding: 8601 8601 1013
 Width: 600
+Flags: W
 HStem: 0 21G<70 302>
 DStem2: 167 154 224 97 0.707107 0.707107<0 452.944>
 TtInstrs:
@@ -86,4 +87,5 @@ SplineSet
  482 466 482 466 496 466 c 0,18,19
  536 466 536 466 536 426 c 0,0,1
 EndSplineSet
+Validated: 19457
 EndChar

@@ -1,6 +1,7 @@
 StartChar: uni22C8
 Encoding: 8904 8904 1029
 Width: 600
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
@@ -28,4 +29,5 @@ SplineSet
  301 215 l 1,23,-1
  74 41 l 1,6,7
 EndSplineSet
+Validated: 3105
 EndChar

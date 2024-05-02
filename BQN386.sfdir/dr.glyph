@@ -2,6 +2,7 @@ StartChar: dr
 Encoding: 120163 120163 1004
 Width: 600
 VWidth: 0
+Flags: W
 HStem: 0 44<112 191> 436 44<112 191 315.631 495.696>
 VStem: 68 44<44 436> 191 44<44 378.578 420 436>
 TtInstrs:

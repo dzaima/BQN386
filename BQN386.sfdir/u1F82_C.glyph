@@ -1,6 +1,7 @@
 StartChar: u1F82C
 Encoding: 129068 129068 1030
 Width: 600
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
@@ -18,4 +19,5 @@ SplineSet
  216.247070312 374.32421875 l 1,16,-1
  543.377929688 374.32421875 l 2,0,1
 EndSplineSet
+Validated: 3073
 EndChar

@@ -1,6 +1,7 @@
 StartChar: dotaccent
 Encoding: 729 729 1017
 Width: 600
+Flags: W
 HStem: 618 150<247.69 352.31>
 VStem: 225 150<640.69 745.31>
 TtInstrs:
@@ -66,4 +67,5 @@ SplineSet
  331 618 331 618 300 618 c 128,-1,0
  269 618 269 618 247 640 c 128,-1,1
 EndSplineSet
+Validated: 19457
 EndChar

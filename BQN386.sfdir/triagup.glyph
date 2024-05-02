@@ -1,6 +1,7 @@
 StartChar: triagup
 Encoding: 9650 9650 1008
 Width: 600
+Flags: W
 LayerCount: 2
 Fore
 SplineSet
