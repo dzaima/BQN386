@@ -1,6 +1,6 @@
 StartChar: FL2667h
 Encoding: 9831 9831 893
-Width: 530
+Width: 600
 GlyphClass: 2
 Flags: W
 HStem: 0 35<204 406> 117 36<91.8379 220.841 385.916 510.308> 392 35<88 146.797 455.395 518.109> 566 35<237.634 363.767>
@@ -310,5 +310,4 @@ SplineSet
  252 101 252 101 204 35 c 1,96,-1
  406 35 l 1,53,54
 EndSplineSet
-Validated: 33
 EndChar

@@ -1,6 +1,6 @@
 StartChar: FL2400h
 Encoding: 9216 9216 761
-Width: 601
+Width: 600
 GlyphClass: 2
 Flags: W
 HStem: -3 29<487 593.812> 192 30<277.922 351.036> 651 20G<42 56 169.5 181>
@@ -309,5 +309,4 @@ SplineSet
  468 218 468 218 473 218 c 0,80,81
  487 218 487 218 487 204 c 2,56,57
 EndSplineSet
-Validated: 19461
 EndChar
